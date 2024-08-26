@@ -1,3 +1,2 @@
-# megacorp
 
-The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
+THIS IS THE NEW VERSION OF MEGACORP, WHERE WE WILL BE BUILDING COOL STUFFS
